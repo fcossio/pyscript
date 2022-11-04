@@ -13,4 +13,4 @@ cookiecutter gh:fcossio/python-script
 bash <name>/run.sh
 ```
 
-The logs are automatically configured to be saved in the <name>/output folder
+The logs are automatically configured to be saved in the <name>/output folder.
