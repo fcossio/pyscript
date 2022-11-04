@@ -1,0 +1,17 @@
+#############
+# Input paths
+#############
+
+
+#########
+# Configs
+#########
+logging_level: INFO
+
+
+########
+# Output
+########
+
+# Uncomment this line to see the logging in the console or to specify a path
+# logging_path: null
